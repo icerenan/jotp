@@ -1,1 +1,1 @@
-# jotp
+# JavaFX OTP
